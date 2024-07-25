@@ -16,7 +16,7 @@ Sample usage
 
 A FileMaker server at ``http://fm.example.com`` hosts a file **Sample** with toy orders:
 
-.. figure:: https://raw.githubusercontent.com/MikhailEdoshin/pgfm/main/res/figure-1.png
+.. figure:: https://github.com/MikhailEdoshin/pgfm/raw/main/res/figure-1.png
    :scale: 75
 
    The schema of the **Sample** file and a layout to fetch data.
