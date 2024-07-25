@@ -1,7 +1,7 @@
 ``pgfm``: a Python client for FileMaker Server Web APIs
 ============================================================
 
-:version: ``pgfm`` 0.7.2, July 25, 2023.
+:version: ``pgfm`` 0.7.3, July 25, 2023.
 :contact: Mikhail Edoshin
 
 The |pgfm| module is a Python client for |FileMaker|_ Server Web APIs. It aims to support all FileMaker APIs in a unified and transparent manner.

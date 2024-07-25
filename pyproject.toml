@@ -1,6 +1,6 @@
 [project]
 name = "pgfm"
-version = "0.7.2"
+version = "0.7.3"
 description = "Python client for FileMaker Web APIs."
 authors = [
   {name = "Mikhail Edoshin", email = "mikhail.edoshin@mail.ru"}
